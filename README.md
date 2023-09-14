@@ -13,5 +13,4 @@
 -> To run the file with UI directly, use the command
 ```streamlit run main.py```
 
-
--> I will list the requirements soon
+-> Remember to install the requirements from the requirements file before trying it out
