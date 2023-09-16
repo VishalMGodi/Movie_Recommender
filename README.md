@@ -13,4 +13,8 @@
 -> To run the file with UI directly, use the command
 ```streamlit run main.py```
 
--> Remember to install the requirements from the requirements file before trying it out
+-> Remember to install the requirements from the requirements file before trying it out 
+
+Command: ```pip install -r requirements.txt```
+
+You are free to create a virtual environment for this
